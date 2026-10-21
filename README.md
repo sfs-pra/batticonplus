@@ -1,6 +1,8 @@
 # batticonplus
 Lightweight battery status icon for the system tray and notifier (based on cbatticon)
 
+This repository is an unmaintained/maintained public mirror of the original batticonplus project by artist4xlibre, which was deleted from GitHub.
+
 Originally based on code from xbattbar-acpi.
 
 `Make options:`\
